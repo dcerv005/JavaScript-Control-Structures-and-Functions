@@ -1,0 +1,1 @@
+JavaScript Basics and Syntax. Here we are using the basics for condition statements, loops, and using functions in JavaScript.
